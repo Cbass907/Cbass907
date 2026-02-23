@@ -16,6 +16,6 @@
 [<img align="left" alt="Cody | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Cody | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Cody
-[instagram]: https://www.instagram.com/Cody
-[linkedin]: www.linkedin.com/in/cody-bass-440a74343
+[twitter]: 
+[instagram]: 
+[linkedin]: https://www.linkedin.com/in/cody-bass-440a74343/
