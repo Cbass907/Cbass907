@@ -12,10 +12,10 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Cody| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Cody| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][facebook]
 [<img align="left" alt="Cody | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Cody | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[facebook]: https://www.facebook.com/cody.bass.395
+[Facebook]: https://www.facebook.com/cody.bass.395
 [instagram]: 
-[linkedin]: https://www.linkedin.com/in/cody-bass-440a74343/
+[LinkedIn]: https://www.linkedin.com/in/cody-bass-440a74343/
