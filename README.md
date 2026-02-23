@@ -17,7 +17,7 @@
 [<img align="left" alt="Cody | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [facebook]: https://facebook.com/cody.bass395
-[instagram]: https://www.instagram.com/Josh
+[instagram]: https://www.instagram.com/cody.bass.395/
 [linkedin]: https://linkedin.com/in/cody-bass-440a74343/
 
 
