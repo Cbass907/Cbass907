@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Cody
 [instagram]: https://www.instagram.com/Cody
-[linkedin]: https://linkedin.com/in/Cody
+[linkedin]: www.linkedin.com/in/cody-bass-440a74343
