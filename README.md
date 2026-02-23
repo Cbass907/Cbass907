@@ -10,9 +10,14 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-<h2>Connect with me:</h2>
+<h2>🤳Connect with me:</h2>
 
-- [![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/cody.bass.395){: style="width: 30px; height: 30px;"}
-- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/512px-Instagram_logo_2022.svg.png)](https://www.instagram.com/yourprofile){: style="width: 30px; height: 30px;"}
+[<img align="left" alt="Cody | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
+[<img align="left" alt="Cody | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Cody | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[facebook]: https://facebook.com/cody.bass395
+[instagram]: https://www.instagram.com/Josh
+[linkedin]: https://linkedin.com/in/Josh
 
 
