@@ -4,8 +4,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Cbass907/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cbass907/Active-Directory-Password-Reset)
+- <b>Active Directory</b>
+  - [Resetting Passwords in Active Directory](https://github.com/Cbass907/Active-Directory-Password-Reset)
 
 <h2>🤳Connect with me:</h2>
 
